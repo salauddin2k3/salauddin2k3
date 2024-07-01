@@ -7,11 +7,11 @@
 <h4 align="center">- Linus Torvalds -</h4>
 
 
-<br> <br>
+<br>
 
 <p align="center"><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br>
 ## Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
