@@ -28,30 +28,29 @@
 <p align="center">
 <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
 <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind"/>
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>
 <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
+<p align="center">
 <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>
-</p><br/>
-
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
-
-
-#### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-
-#### Tools:
-
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=express"/>
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+<p align="center">
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=firebase"/>
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=npm"/>
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>
+</p>
+<p align="center">
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
+</p>
+<p align="center">
+<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ai"/>
+</p>
+<br/>
 
 <br> <br> <br> <br>
 
