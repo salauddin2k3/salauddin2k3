@@ -47,13 +47,6 @@
 <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
 <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
 </p>
-<p align="center">
-<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ai"/>
-</p>
 <br/>
 
 <br> <br> <br> <br>
-
-<div align="center">
- <img src="https://media.licdn.com/dms/image/D5622AQEhkOnWZpnqdg/feedshare-shrink_800/0/1706125988339?e=1709164800&v=beta&t=mzmxnKWsV0btu0rSldRNm-SwIW83hd_bOwMcAwm6v2g">
-</div>
