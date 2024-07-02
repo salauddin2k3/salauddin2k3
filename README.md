@@ -13,18 +13,19 @@
 
 <br>
 
+## 💫 About Me:
+
+<br />
+<p align="center">
+  I am Salauddin Ahmed, a proficient MERN stack developer with a diverse skill set that includes React.js, Node.js, MongoDB, and Express.js. I am well-versed in using npm for package management and have a strong command of front-end technologies such as HTML5, CSS3, Bootstrap, and Tailwind. Additionally, I am experienced with UI component libraries like DaisyUI and MambaUI, and I leverage Firebase for backend services. I am a learner, continually acquiring new technologies, and I am dedicated to building fully responsive websites. My expertise makes me a versatile developer capable of handling various aspects of web development.
+</p>
+<br />
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=salauddin2k3&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
-## :💫 About Me:
-
-<br />
-<p align="center">
-  I am Salauddin Ahmed, a proficient MERN stack developer with a diverse skill set that includes React.js, Node.js, MongoDB, and Express.js. I am well-versed in using npm for package management and have a strong command of front-end technologies such as HTML5, CSS3, Bootstrap, and Tailwind. Additionally, I am experienced with UI component libraries like DaisyUI and MambaUI, and I leverage Firebase for backend services. I am a learner, continually acquiring new technologies, and I am dedicated to building fully responsive websites. My expertise makes me a versatile developer capable of handling various aspects of web development.
 </p>
 
 ## :computer: Technologies that I know
